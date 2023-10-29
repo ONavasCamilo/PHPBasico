@@ -1,0 +1,13 @@
+--logica de programacion: https://www.youtube.com/watch?v=n2ACoGsRQHY&list=PLvq-jIkSeTUZ6QgYYO3MwG9EMqC-KoLXA&index=53
+
+-- jon mircha dom.64: https://www.youtube.com/watch?v=asR6_XGzI3s&list=PLvq-jIkSeTUZ6QgYYO3MwG9EMqC-KoLXA&index=68
+
+-- js nivel mid: https://www.youtube.com/watch?v=xOinGb2MZSk&t=553s
+
+-- vite: https://www.youtube.com/watch?v=YEQ-uMGpQMY
+
+-- pag responsive js: https://www.youtube.com/watch?v=3-14l0ya3zw
+
+-- dalto css 6h:40m: https://www.youtube.com/watch?v=OWKXEJN67FE
+
+
